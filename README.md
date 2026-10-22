@@ -1,0 +1,2 @@
+# EALMiniSumo
+öyle
